@@ -1,0 +1,12 @@
+[
+    {
+        "teacher_id": "T001",
+        "name": "Sara",
+        "subject": "Python"
+    },
+    {
+        "teacher_id": "T002",
+        "name": "Faisl",
+        "subject": "Web Development"
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "course_code": "PY101",
+        "course_title": "Python Programming",
+        "assigned_teacher": "T001",
+        "enrolled_students": [
+            "S001",
+            "S002"
+        ]
+    },
+    {
+        "course_code": "WEB101",
+        "course_title": "Web Development",
+        "assigned_teacher": "T002",
+        "enrolled_students": [
+            "S001",
+            "S003"
+        ]
+    }
+]

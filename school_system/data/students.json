@@ -1,0 +1,27 @@
+[
+    {
+        "student_id": "S001",
+        "name": "Ahmed",
+        "age": 21,
+        "enrolled_courses": [
+            "PY101",
+            "WEB101"
+        ]
+    },
+    {
+        "student_id": "S002",
+        "name": "Sara",
+        "age": 22,
+        "enrolled_courses": [
+            "PY101"
+        ]
+    },
+    {
+        "student_id": "S003",
+        "name": "Khalid",
+        "age": 24,
+        "enrolled_courses": [
+            "WEB101"
+        ]
+    }
+]

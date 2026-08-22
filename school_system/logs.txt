@@ -1,0 +1,11 @@
+Age must be a valid whole number
+Name is empty
+ID is empty
+Age is empty
+Student ID already exists
+Student is already enrolled in this course
+Student is already enrolled in this course
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Expecting value: line 1 column 1 (char 0)
+Student ID does not exist
